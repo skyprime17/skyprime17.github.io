@@ -99,3 +99,8 @@ section h1 {
 section p{
     font-size: 1.5rem;
 }
+
+section a {
+    color: #b6b6b6;
+    font-size: 1.5rem;
+}
